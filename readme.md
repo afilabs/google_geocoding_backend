@@ -16,6 +16,6 @@ How to run the app:
 3. Update the `.env` file with your Google Maps API key
 4. Run `npm start`
 
-This project is designed to run with google_forward_geocoding.
+This project is designed to run with [google_forward_geocoding](https://github.com/afilabs/google_forward_geocoding).
 
 Please contact afian@afi.io if you have any questions or suggestions. Pull requests are welcome.
