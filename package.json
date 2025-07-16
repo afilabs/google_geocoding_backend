@@ -1,0 +1,25 @@
+{
+   "name": "google-geocoding-api",
+   "version": "1.0.0",
+   "description": "",
+   "main": "src/index.js",
+   "scripts": {
+      "start": "node src/index.js",
+      "dev": "nodemon src/index.js",
+      "format": "prettier --write 'src/**/*.{ts,js}'"
+   },
+   "keywords": [],
+   "author": "",
+   "license": "ISC",
+   "type": "module",
+   "dependencies": {
+      "axios": "^1.10.0",
+      "cors": "^2.8.5",
+      "dotenv": "^17.1.0",
+      "express": "^5.1.0"
+   },
+   "devDependencies": {
+      "nodemon": "^3.1.10",
+      "prettier": "^3.6.2"
+   }
+}
